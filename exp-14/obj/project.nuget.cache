@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ac5qS8dZINk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Shreya aggarwal\\OneDrive\\Desktop\\F#Lab8\\exp-14\\exp-14.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Shreya aggarwal\\.nuget\\packages\\fsharp.core\\10.1.404\\fsharp.core.10.1.404.nupkg.sha512"
+  ],
+  "logs": []
+}
